@@ -6,7 +6,7 @@
 [主页](https://space.bilibili.com/3493279404395296)
 
 ## book
-### [游戏模拟器开发教程(初级版)](./game_emulator_develop(primary).md)
+### [游戏模拟器开发教程(初级版)](https://github.com/jinjiacun123/jinjiacun123.github.io/blob/main/game_emulator_develop(primary).md)
 
 ## 开源项目
 
