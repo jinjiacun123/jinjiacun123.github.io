@@ -1,0 +1,187 @@
+site_name: jim's some page
+nav:
+  - Home: "index.md"
+  - About: "about.md"
+  - 知乎主页: "https://www.zhihu.com/people/jim-79-39-91"
+  - B站主页: "https://space.bilibili.com/3493279404395296"
+  - project:
+  - book:
+      - "游戏模拟器开发教程(初级版)": ""
+      - "chip8": ""
+      - "game boy": ""
+      - "nes": ""
+      - "snes": ""
+theme:
+  # Theme: https://squidfunk.github.io/mkdocs-material/
+  name: material
+  custom_dir: overrides
+  features:
+    # QOL features
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.follow
+    - navigation.indexes
+    - content.tooltips
+    - navigation.instant
+    - navigation.sections
+    - content.code.copy
+    - content.code.annotate
+    - announce.dismiss
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  font:
+    text: Open Sans
+    code: IBM Plex Mono
+  # Color scheme and toggle button for dark/light mode
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: "blue"
+      accent: "light blue"
+      toggle:
+        icon: material/brightness-4
+        name: Toggle light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: "blue"
+      accent: "light blue"
+      toggle:
+        icon: material/brightness-7
+        name: Toggle dark mode
+markdown_extensions:
+  # permalink:true adds anchors to headers
+  - toc:
+      permalink: ""
+  # pymdownx.superfences adds diagrams
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format:
+            !!python/name:pymdownx.superfences.fence_code_format # adds emojis and allows for custom emojis placed in overrides/.icons
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.keys
+  - def_list
+  - sane_lists
+  - attr_list
+  - tables
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  # Adds keyboard icons, may be able to add steam deck buttons
+  - pymdownx.keys
+  # Allows for writing markdown in HTML
+  - md_in_html
+  # Adds checkboxes
+  - pymdownx.tasklist
+  # Adds highlighting and subscript and superscript
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      use_pygments: true
+  - pymdownx.inlinehilite
+  - admonition
+  - footnotes
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.magiclink
+# plugins section, search is an included plugin but if adding any new plugins, needs to be stated here as well
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - glightbox
+  # Getting the following error:
+  # "Config value 'plugins': Plugin 'i18n' option 'languages': Expected type: <class 'dict'> but received: <class 'list'>"
+  # Will investigate later, commenting out for now.
+  #- i18n:
+  # docs_structure: suffix
+  # languages:
+  #  - locale: en
+  #    default: true
+  #    name: English
+  #    build: true
+  #   - locale: es
+  #     name: Español
+  #     build: true
+  #   - locale: fr
+  #     name: Français
+  #     build: true
+  - blog
+  - macros
+  - table-reader:
+      data_path: "docs/tables/"
+      allow_missing_files: True
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - rss:
+      enabled: !ENV [CI, false]
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date
+        datetime_format: "%Y-%m-%d %H:%M"
+      categories:
+        - categories
+        - tags
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
+# Footer
+extra:
+  home: $HOME or ~ refer to your home directory. On a Steam Deck, the full path will be `/home/deck`. When navigating using the file manager, the file manager may not display the username visually in the full file path.
+  fullpath: When navigating using the file manager, the file manager may not display the username visually in the full file path.
+  emulation: Emulation/.. refers to either your home/deck directory or SD Card/removable media depending on your installation location.
+  applications: $HOME/Applications refers to the Applications folder in your home directory. On a typical Linux distro, the full path will be `\$HOME/\$USER/Applications`. On a Steam Deck, the full path will be `/home/deck/Applications`. When navigating using the file manager, the file manager may not display the username visually in the full file path. The Applications folder is not created by default. If you have not created one already, do so before following the steps in this section.
+  hiddenfolders: Directories with a `.` in front of their name, like `/home/deck/.steam`, are hidden by default. In Dolphin (a file manager), click the hamburger menu in the top right and toggle on `Show Hidden Files`. The setting may vary depending on which file manager you are using.
+  steamdeckdesktopmode: If you are on a Steam Deck, use Desktop Mode for this step.
+  steamdeckgamemode: If you are on a Steam Deck, use Game Mode for this step.
+  appimage: An AppImage is a portable/self-contained application. It contains all of the dependencies required to run the respective program.
+  flatpak: A Flatpak is a sandboxed application, flatpaks run in an isolated environment which allow for granular control over permissions. On a Steam Deck, flatpaks can be installed, managed, and updated through Discover.
+  permissions: click `Properties`, click `Permissions`, check `Is Executable`.
+  steaminput: This section assumes you are using an emulator through Steam and will be using the Steam Virtual Gamepad as the primary device for your controller. If you are not using Steam Input, make sure to select the appropriate controller option (which will typically match your controller name).
+  social:
+    - icon: "custom/logo"
+      link: "https://www.emudeck.com/"
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/EmuDeck"
+    - icon: "fontawesome/brands/discord"
+      link: "https://discord.gg/b9F7GpXtFP"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/EmuDeck"
+    - icon: "fontawesome/brands/patreon"
+      link: "https://www.patreon.com/dragoonDorise"
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+extra_css:
+  - css/github-permalink-style.css
+  - css/github-tables.css
+# Analytics - To Do
+#  consent:
+#    title: Cookie consent
+#    description: >-
+#        We use cookies to recognize your repeated visits and preferences, as well
+#        as to measure the effectiveness of our documentation and whether users
+#        find what they're searching for. With your consent, you're helping us to
+#        make our documentation better.
+#    actions:
+#        - accept
+#        - reject
+#        - manage
