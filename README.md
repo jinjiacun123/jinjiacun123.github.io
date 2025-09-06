@@ -5,6 +5,9 @@
 ## B站
 [主页](https://space.bilibili.com/3493279404395296)
 
+## book
+### [游戏模拟器开发教程(初级版)](./game\ emulator\ develop(primary).md)
+
 ## 开源项目
 
 ## 模拟器开发群
