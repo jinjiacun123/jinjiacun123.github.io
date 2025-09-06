@@ -1,16 +1,174 @@
-site_name: jim's some page
+site_name: EmuDeck Wiki
+site_url: https://emudeck.github.io
+repo_url: https://github.com/EmuDeck/emudeck.github.io
+repo_name: emudeck.github.io
+copyright: >
+  Copyright Creative Commons Attribution-ShareAlike 4.0 International
+#    <a href="#__consent">Change cookie settings</a>
+watch:
+  - includes
 nav:
   - Home: "index.md"
   - About: "about.md"
-  - 知乎主页: "https://www.zhihu.com/people/jim-79-39-91"
-  - B站主页: "https://space.bilibili.com/3493279404395296"
-  - project:
-  - book:
-      - "游戏模拟器开发教程(初级版)": ""
-      - "chip8": ""
-      - "game boy": ""
-      - "nes": ""
-      - "snes": ""
+  - EmuDeck Website: "https://www.emudeck.com/"
+  - EmuDeck GitHub: "https://github.com/dragoonDorise/EmuDeck"
+  - EmuDeck Wiki GitHub: "https://github.com/EmuDeck/emudeck.github.io"
+  - EmuDeck Discord: "https://discord.gg/b9F7GpXtFP"
+  - EmuDeck Blog: "blog/index.md"
+  - BIOS and ROMs Cheat Sheet: "cheat-sheet.md"
+  - Hotkeys: "controls-and-hotkeys/steamos/hotkeys.md"
+  - Community Games Compatibility Database: "https://brantje.github.io/emudeck-compatibility-list/"
+  - CloudSync: "cloudsync.md"
+  - Donations: "donations.md"
+  - How to Install EmuDeck:
+      - "EmuDeck for SteamOS":
+          - "how-to-install-emudeck/steamos/index.md"
+      - "EmuDeck for Windows":
+          - "how-to-install-emudeck/windows/index.md"
+      - "EmuDeck for Linux":
+          - "how-to-install-emudeck/linux/index.md"
+  - Frequently Asked Questions:
+      - "EmuDeck for SteamOS":
+          - "frequently-asked-questions/steamos/index.md"
+      - "EmuDeck for Windows":
+          - "frequently-asked-questions/windows/index.md"
+      - "EmuDeck for Linux":
+          - "frequently-asked-questions/linux/index.md"
+  - Known Issues:
+      - "EmuDeck for SteamOS":
+          - "known-issues/steamos/index.md"
+      - "EmuDeck for Windows":
+          - "known-issues/windows/index.md"
+      - "EmuDeck for Linux":
+          - "known-issues/linux/index.md"
+  - Troubleshooting:
+      - "EmuDeck for SteamOS":
+          - "troubleshooting/steamos/index.md"
+      - "EmuDeck for Windows": https://github.com/dragoonDorise/EmuDeck/pull/1002
+          - 'troubleshooting/windows/index.md'
+      - "EmuDeck for Linux":
+          - "troubleshooting/linux/index.md"
+  - EmuDeck Maintenance:
+      - "Updating on SteamOS": "emudeck-maintenance/steamos/updating.md"
+      - "Updating on Windows": "emudeck-maintenance/windows/updating.md"
+  - Controls and Hotkeys:
+      - EmuDeck for SteamOS:
+          - "Controls 101": "controls-and-hotkeys/steamos/controls-101.md"
+          - "Hotkeys": "controls-and-hotkeys/steamos/hotkeys.md"
+          - "External Controllers": "controls-and-hotkeys/steamos/external-controllers.md"
+      - EmuDeck for Windows:
+          - "Controls 101": "controls-and-hotkeys/windows/controls-101.md"
+          - "Hotkeys": "controls-and-hotkeys/windows/hotkeys.md"
+  - EmuDeck Application:
+      - "EmuDeck for SteamOS":
+          - "EmuDeck Application 101": "emudeck-application/steamos/emudeck-application-101.md"
+          - "EmuDeck Store": "emudeck-application/steamos/emudeck-store.md"
+      - "EmuDeck for Windows":
+          - "EmuDeck Application 101": "emudeck-application/windows/emudeck-application-101.md"
+  - Tools:
+      - Cloud Services:
+          - "Cloud Services on SteamOS": "tools/steamos/cloud-services.md"
+      - ES-DE:
+          - "ES-DE on SteamOS": "tools/steamos/es-de.md"
+          - "ES-DE on Windows": "tools/windows/es-de.md"
+      - Steam ROM Manager:
+          - "Steam ROM Manager on SteamOS": "tools/steamos/steam-rom-manager.md"
+          - "Steam ROM Manager on Windows": "tools/windows/steam-rom-manager.md"
+      - Pegasus:
+          - "Pegasus on SteamOS": "tools/steamos/pegasus.md"
+          - "Pegasus on Windows": "tools/windows/pegasus.md"
+      - Import and Export Tools:
+          - "Import and Export Tool on SteamOS": "tools/steamos/import-and-export-tool.md"
+  - Emulators:
+      - Supported Emulators:
+          - Supported Emulators on SteamOS: "emulators/steamos/supported-emulators.md"
+          - Supported Emulators on Windows: "emulators/windows/supported-emulators.md"
+      - BigPEmu (Atari Jaguar):
+          - "BigPEmu on SteamOS": "emulators/steamos/bigpemu.md"
+      - Cemu (Wii U):
+          - "Cemu on SteamOS": "emulators/steamos/cemu/cemu-native.md"
+          - "Cemu on Windows": "emulators/windows/cemu.md"
+      - Citra (Nintendo 3DS):
+          - "Citra on SteamOS": "emulators/steamos/citra.md"
+          - "Citra on Windows": "emulators/windows/citra.md"
+      - Dolphin (GameCube and Wii):
+          - "Dolphin on SteamOS": "emulators/steamos/dolphin.md"
+          - "Dolphin on Windows": "emulators/windows/dolphin.md"
+      - DuckStation (PlayStation 1):
+          - "DuckStation on SteamOS": "emulators/steamos/duckstation.md"
+          - "DuckStation on Windows": "emulators/windows/duckstation.md"
+      - Flycast (Dreamcast):
+          - "Flycast on SteamOS": "emulators/steamos/flycast.md"
+      - MAME:
+          - "MAME on SteamOS": "emulators/steamos/mame.md"
+      - melonDS (Nintendo DS) (Standalone):
+          - "melonDS on SteamOS": "emulators/steamos/melonds.md"
+          - "melonDS on Windows": "emulators/windows/melonds.md"
+      - mGBA (GB, GBC, and GBA) (Standalone):
+          - "mGBA on SteamOS": "emulators/steamos/mgba.md"
+      - Model 2 Emulator (Sega Model 2):
+          - "Model 2 Emulator on SteamOS": "emulators/steamos/model-2-emulator.md"
+      - PCSX2 (PlayStation 2):
+          - "PCSX2 on SteamOS": "emulators/steamos/pcsx2.md"
+          - "PCSX2 on Windows": "emulators/windows/pcsx2.md"
+      - PPSSPP (PlayStation Portable) (Standalone):
+          - "PPSSPP on SteamOS": "emulators/steamos/ppsspp.md"
+          - "PPSSPP on Windows": "emulators/windows/ppsspp.md"
+      - PrimeHack:
+          - "PrimeHack on SteamOS": "emulators/steamos/primehack.md"
+      - RetroArch:
+          - "RetroArch on SteamOS": "emulators/steamos/retroarch.md"
+          - "RetroArch on Windows": "emulators/windows/retroarch.md"
+      - Rosalie's Mupen GUI (Nintendo 64) (Standalone):
+          - "Rosalie's Mupen GUI on SteamOS": "emulators/steamos/rmg.md"
+      - RPCS3 (PlayStation 3):
+          - "RPCS3 on SteamOS": "emulators/steamos/rpcs3.md"
+          - "RPCS3 on Windows": "emulators/windows/rpcs3.md"
+      - Ryujinx (Nintendo Switch):
+          - "Ryujinx on SteamOS": "emulators/steamos/ryujinx.md"
+          - "Ryujinx on Windows": "emulators/windows/ryujinx.md"
+      - ScummVM:
+          - "ScummVM on SteamOS": "emulators/steamos/scummvm.md"
+      - Supermodel (Sega Model 3):
+          - "Supermodel on SteamOS": "emulators/steamos/supermodel.md"
+      - ShadPS4 (Sony Playstation 4):
+          - "ShadPS4 on SteamOS": "emulators/steamos/shadps4.md"
+          - "ShadPS4 on Windows": "emulators/windows/shadps4.md"
+      - Vita3K (PlayStation Vita):
+          - "Vita3K on SteamOS": "emulators/steamos/vita3k.md"
+      - Xemu (OG Xbox):
+          - "Xemu on SteamOS": "emulators/steamos/xemu.md"
+      - Xenia (Xbox 360):
+          - "Xenia on SteamOS": "emulators/steamos/xenia.md"
+      - Yuzu (Nintendo Switch):
+          - "Yuzu on SteamOS": "emulators/steamos/yuzu.md"
+          - "Yuzu on Windows": "emulators/windows/yuzu.md"
+  - Save Management:
+      - Save Management on SteamOS: "save-management/steamos/save-management.md"
+      - Save Management on Windows: "save-management/windows/save-management.md"
+  - File Management:
+      - File Management on SteamOS: "file-management/steamos/file-management.md"
+      - File Management on Windows: "file-management/windows/file-management.md"
+  - Community Creations:
+      - EmuDeck for SteamOS:
+          - Community Creations: "community-creations/steamos/community-creations.md"
+          - Community Game Configurations: "community-creations/steamos/community-game-configurations.md"
+          - Curated ROM Hacks and Texture Packs: "community-creations/steamos/curated-rom-hacks-and-texture-packs.md"
+          - Linux Tips and Tricks: "community-creations/steamos/linux-tips-and-tricks.md"
+          - Pico-8: "community-creations/steamos/pico-8.md"
+          - Super Smash Bros: "community-creations/steamos/super-smash-bros.md"
+          - Third Party Emulation (Decompilations and Games): "community-creations/steamos/third-party-emulation.md"
+          - Tools and Guides: "community-creations/steamos/tools-and-guides.md"
+      - EmuDeck for Windows:
+          - Community Creations: "community-creations/windows/community-creations.md"
+  - EmuDeck Plugins:
+      - EmuDeck Plugins:
+          - "emudeck-plugins/index.md"
+          - "DeckyControls": "emudeck-plugins/deckycontrols.md"
+          - "Emuchievements": "emudeck-plugins/emuchievements.md"
+          - "MetaDeck": "emudeck-plugins/metadeck.md"
+  - Contributing to EmuDeck:
+      - How to Contribute: "how-to-contribute.md"
 theme:
   # Theme: https://squidfunk.github.io/mkdocs-material/
   name: material
