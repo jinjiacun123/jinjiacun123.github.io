@@ -1,3 +1,0 @@
-# Wiimotes
-SUBSYSTEM=="usb", ATTRS{idVendor}=="057e", ATTRS{idProduct}=="0306", TAG+="uaccess"
-SUBSYSTEM=="usb", ATTRS{idVendor}=="057e", ATTRS{idProduct}=="0330", TAG+="uaccess"
