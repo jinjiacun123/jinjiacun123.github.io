@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 site_name: EmuDeck Wiki
 site_url: https://emudeck.github.io
 repo_url: https://github.com/EmuDeck/emudeck.github.io
@@ -7,6 +8,12 @@ copyright: >
 #    <a href="#__consent">Change cookie settings</a>
 watch:
   - includes
+=======
+site_name: jim's some page
+site_url: https://jinjiacun123.github.io
+repo_url: https://github.com/jinjiacun123/jinjiacun123.github.io
+repo_name: jinjiacun123.github.io
+>>>>>>> aff60eb (add web site)
 nav:
   - Home: "index.md"
   - About: "about.md"
