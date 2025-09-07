@@ -1,13 +1,22 @@
-# 个人项目
+# EmuDeck Wiki
 
-## 知乎
-[主页](https://www.zhihu.com/people/jim-79-39-91)
-## B站
-[主页](https://space.bilibili.com/3493279404395296)
+## Information
 
-## book
-### [游戏模拟器开发教程(初级版)](https://github.com/jinjiacun123/jinjiacun123.github.io/blob/main/game_emulator_develop(primary).md)
+This repository is the home of the EmuDeck Wiki using MkDocs: [https://www.mkdocs.org/](https://www.mkdocs.org/). The EmuDeck Wiki is open source and open to Pull Requests for any edits or modifications. 
 
-## 开源项目
+The theme is mkdocs-material: [https://github.com/squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
-## 模拟器开发群
+The EmuDeck Wiki Website: [emudeck.github.io](https://emudeck.github.io/)
+
+This **repository** is not for the EmuDeck application, you can find that here: [https://github.com/dragoonDorise/EmuDeck/issues](https://github.com/dragoonDorise/EmuDeck/issues). If you are having any issues with the EmuDeck application, emulators or tools, use the EmuDeck Discord for support. If you have any feedback on the EmuDeck application, open an issue on the aforementioned repository. 
+
+This also has a game compatibility list to check, if your games will work or not work with emudeck [https://brantje.github.io/emudeck-compatibility-list/](https://brantje.github.io/emudeck-compatibility-list/)
+
+## How to Contribute
+
+See [https://emudeck.github.io/how-to-contribute/](https://emudeck.github.io/how-to-contribute/).
+
+Thank you for contributing!
+
+***
+
