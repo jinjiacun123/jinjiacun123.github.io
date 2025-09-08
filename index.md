@@ -20,7 +20,7 @@ layout: default
 
 <!-- fence -->
 ## 3. **emulator doc**  
-* [-][chip8](docs/chip8_book/index.md) 
+* [-][chip8](docs/chip8/index.md) 
 * [x][game boy](docs/gb/index.md) 
 * [x][nes](docs/nes/index.md) 
 * [x][snes](docs/snes/index.md) 
