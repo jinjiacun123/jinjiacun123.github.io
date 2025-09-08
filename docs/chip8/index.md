@@ -1,7 +1,8 @@
 - [Ref link](#1-ref-link)
 - [Translation to chinese](#2-translate-to-chinese)
-- [emulator source code](#3-open-source-code)
-- [roms]()
+- [videos](#3-videos)
+- [emulator source code](#4-open-source-code)
+- [roms](#5-roms)
 
 # 1. Ref link
 - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
@@ -20,9 +21,11 @@
 * [chap 6 frontend](book_1/6-frontend.md)
 * [chap 7 wasm](book_1/7-wasm.md)
 * [chap 8 opcodes](book_1/8-opcodes.md)
+# 3. videos
+* [mine](https://www.bilibili.com/video/BV1VwTWzRE4o/?vd_source=007126b55ef68e343092a29b2dbdc620)
 
-# 3. open source code
+# 4. open source code
 - [implement use c](https://github.com/shnupta/Chip-Emul8)
 
-# 4. roms
+# 5. roms
 - []()
