@@ -12,6 +12,11 @@ layout: default
 ## book
 ### [游戏模拟器开发教程(初级版)](https://github.com/jinjiacun123/jinjiacun123.github.io/blob/main/docs/game_emulator_develop(primary).md)
 
+## emulator doc
+[chip8](https://github.com/jinjiacun123/jinjiacun123.github.io/blob/main/docs/chip8_book/1-intro.md)
+
+
+
 ## 开源项目
 
 ## 模拟器开发群
