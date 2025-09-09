@@ -10,7 +10,7 @@ layout: default
 - [开源项目](#4-开源项目)
 - [call me](#5-call-me)
 <!-- fence:start -->
-## 1. **resouce**  
+## 1. **resource**  
 ### 1.1 general
  * [知乎](https://www.zhihu.com/people/jim-79-39-91) 
  * [B站](https://space.bilibili.com/3493279404395296) 
