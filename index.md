@@ -19,7 +19,7 @@ layout: default
  * [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
  * [HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
  * [CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
- * [some cpu and emulator](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
+ * [some cpu and emulator](https://www.zophar.net/)
  * [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)
  * [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
 ### 1.2 cpu
