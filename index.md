@@ -16,6 +16,12 @@ layout: default
  * [B站](https://space.bilibili.com/3493279404395296) 
  * [Emu-Docs](https://github.com/shonumi/Emu-Docs)
  * [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
+ * [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
+ * [HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
+ * [CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
+ * [some cpu and emulator](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
+ * [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)
+ * [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
 ### 1.2 cpu
 ### 1.2.1 6502 
  * [online 6502 disassembler](https://jborza.com/post/2021-06-08-6502-disassembler/)
