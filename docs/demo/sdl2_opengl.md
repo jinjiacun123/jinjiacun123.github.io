@@ -1,3 +1,4 @@
+```
 // exampe: sdl2 and open gl 
 // compile command: g++ sdl_point.cpp -o sdl_point -lGL `sdl2-config --cflags --libs`
 #include <SDL2/SDL.h>
@@ -111,3 +112,4 @@ int main() {
 
     return 0;
 }
+```

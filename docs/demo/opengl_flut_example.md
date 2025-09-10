@@ -1,3 +1,4 @@
+```
 /*gcc -o tex tex.c -lGL -lglut -lGLU*/
 /* glut: freeglut */
 /* -*- Mode:C; Coding:us-ascii-unix; fill-column:132 -*- */
@@ -124,5 +125,5 @@ int main(int argc, char *argv[]) {
   glutMainLoop();
   return 0;
 } /* end func main */
-
+```
 

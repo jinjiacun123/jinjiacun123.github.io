@@ -14,7 +14,7 @@ layout: default
 ### 1.1 general
  * [知乎](https://www.zhihu.com/people/jim-79-39-91) 
  * [B站](https://space.bilibili.com/3493279404395296)
- * 一些例子:[sdl2 opengl](https://github.com/jinjiacun123/jinjiacun123.github.io/blob/main/docs/sdl2_opengl.cpp) | [opengl flut example](https://github.com/jinjiacun123/jinjiacun123.github.io/blob/main/docs/opengl_flut_example.c)
+ * [demo](/docs/demo/index.html)
  * [Emu-Docs](https://github.com/shonumi/Emu-Docs)
  * [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
  * [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
