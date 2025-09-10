@@ -13,7 +13,8 @@ layout: default
 ## 1. **resource**  
 ### 1.1 general
  * [知乎](https://www.zhihu.com/people/jim-79-39-91) 
- * [B站](https://space.bilibili.com/3493279404395296) 
+ * [B站](https://space.bilibili.com/3493279404395296)
+ * 一些例子:[sdl2 opengl](docs/sdl2_opengl.html) | [opengl flut example](docs/opengl_flut_example.html)
  * [Emu-Docs](https://github.com/shonumi/Emu-Docs)
  * [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
  * [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
@@ -50,3 +51,4 @@ layout: default
 ## 5. **call me**
 - 模拟器开发群:193548232
 <!-- fence:end -->
+
