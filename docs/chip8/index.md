@@ -22,7 +22,7 @@
 * [chap 7 wasm](book_1/7-wasm.md)
 * [chap 8 opcodes](book_1/8-opcodes.md)
 # 3. videos
-* [mine](https://www.bilibili.com/video/BV1VwTWzRE4o/?vd_source=007126b55ef68e343092a29b2dbdc620)
+1. [我的chip8一期合集](https://www.bilibili.com/video/BV1VwTWzRE4o/?vd_source=007126b55ef68e343092a29b2dbdc620)
 
 # 4. open source code
 - [implement use c](https://github.com/shnupta/Chip-Emul8)
