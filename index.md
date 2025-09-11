@@ -51,7 +51,7 @@ layout: default
 <!-- fence -->
 ## 5. **call me**
 - 模拟器开发群:193548232
-- 邮箱:37085834@qq.com
+- 邮箱:370858342@qq.com
 ## 6. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
