@@ -9,6 +9,7 @@ layout: default
 - [emulator doc](#3-emulator-doc)
 - [开源项目](#4-开源项目)
 - [call me](#5-call-me)
+- [待办建议](#6-待办建议)
 <!-- fence:start -->
 ## 1. **resource**  
 ### 1.1 general
@@ -50,6 +51,10 @@ layout: default
 <!-- fence -->
 ## 5. **call me**
 - 模拟器开发群:193548232
+- 邮箱:37085834@qq.com
+## 6. **待办建议**
+- [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
