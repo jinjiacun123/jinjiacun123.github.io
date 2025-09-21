@@ -55,8 +55,9 @@ layout: default
 - 邮箱:370858342@qq.com
 - 如果这些技术对你有所帮助，对制作者进行捐助以此鼓励。
 
+![Initial file structure](pay.jpg)
 
-<img src="pay.jpg"/>
+
 ## 6. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
