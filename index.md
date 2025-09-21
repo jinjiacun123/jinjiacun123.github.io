@@ -15,6 +15,7 @@ layout: default
 ### 1.1 general
  * [知乎](https://www.zhihu.com/people/jim-79-39-91) 
  * [B站](https://space.bilibili.com/3493279404395296)
+ * [emulator study path](/study_path.md)
  * [demo](/docs/demo/index.html)
  * [Emu-Docs](https://github.com/shonumi/Emu-Docs)
  * [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
