@@ -3,3 +3,4 @@
 * [sdl2 open gl example](sdl2_opengl.md)
 * [first instruction of rokuyon](get_rokuyon_first_instruction.md)
 * [一些裁剪改写的demo](https://github.com/jinjiacun123/jemulator)
+* [ps1(simplestation)](https://github.com/jinjiacun123/jemulator/tree/main/demo/ps1_from_simplestation)
