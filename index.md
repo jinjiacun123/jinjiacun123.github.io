@@ -33,6 +33,17 @@ layout: default
 <!-- fence -->
 ## 2. **books**
 - [游戏模拟器开发教程(初级版)](docs/game_emulator_develop(primary).html)
+- [chip8模拟器开发(入门)](docs/step_by_step_development_chip8_emulation.html)
+```
+  书名:<<chip8模拟器开发入门>>
+  英文名:step by step development chip8 emulation
+  计划初稿完成时间:2025-10-30
+  电子版价格:￥10,粉丝价:￥5
+  纸质:待定
+  抢先看当前完成部分:加入模拟器开发会员群 205401359(qq) 
+  付款方式:本页面最下面有二维码，扫码完成，备注写:购买<<chip8模拟器开发入门>>电子版.如果是粉丝，麻烦提供b站等昵称。
+  关于退款:如果对本书不满意，或者没兴趣，可以在付款后一个月内私我进行退款操作，我将按在原来付款帐号返还。
+```
 
 <!-- fence -->
 ## 3. **emulator doc**  
