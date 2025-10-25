@@ -79,6 +79,7 @@ layout: default
   ·购买学习指导服务
   ·模拟器使用者付费者
 - 邮箱:370858342@qq.com
+- webchat:jinjiacun123
 - 如果这些技术对你有所帮助，对制作者进行捐助以此鼓励。
 
 ![Initial file structure](pay.jpg)
