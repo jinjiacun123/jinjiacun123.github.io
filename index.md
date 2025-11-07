@@ -26,6 +26,7 @@ layout: default
  * [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)
  * [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
  * [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
+ * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)
 ### 1.2 cpu
 ### 1.2.1 6502 
  * [online 6502 disassembler](https://jborza.com/post/2021-06-08-6502-disassembler/)
