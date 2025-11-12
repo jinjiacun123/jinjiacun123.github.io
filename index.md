@@ -74,8 +74,11 @@ layout: default
 ## 4. **开源项目**
 - [no]()
 
+## 5. **游戏**
+ * [xbox game](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox/)
+
 <!-- fence -->
-## 5. **call me**
+## 6. **call me**
 - 模拟器爱好者交流群:193548232(qq)
 - 模拟器开发会员群:205401359(qq)
 ·会员群只接受人员
@@ -89,9 +92,10 @@ layout: default
 ![Initial file structure](pay.jpg)
 
 
-## 6. **待办建议**
+## 7. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
 
