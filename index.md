@@ -25,6 +25,7 @@ layout: default
  * [some cpu and emulator](https://www.zophar.net/)
  * [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)
  * [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
+ * [Awesome Xbox Development](https://xbox1.dev/)
  * [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
  * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)
  * [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks)
@@ -91,6 +92,7 @@ layout: default
 ## 6. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
 
