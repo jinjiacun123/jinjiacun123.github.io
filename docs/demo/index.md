@@ -7,3 +7,4 @@
 * [sfml demo](sfml_demo.md)
 * [sdl游戏入门开发](https://gitee.com/jimcucu/sdl_game_development)
 * [sfml游戏入门开发](https://gitee.com/jimcucu/sfml_game_development)
+* [sfml使用例子开发游戏](https://gitee.com/jimcucu/sfml_game_development_by_example)
