@@ -29,6 +29,9 @@ layout: default
  * [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
  * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)
  * [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks)
+ * [游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-)
+ * [游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks)
+ * [游戏引擎](https://brodydoesart.github.io/GameEngineBook/)
 ### 1.2 cpu
 ### 1.2.1 6502 
  * [online 6502 disassembler](https://jborza.com/post/2021-06-08-6502-disassembler/)
