@@ -6,7 +6,13 @@ layout: default
 # 模拟器和游戏项目
 **最新公告**
 ```
- >>>>>>> 添加一些复古计算机链接(2025-11-17)
+ > 游戏分享计划sfml系列:
+    > sfml game development by example
+    > sfml essentials
+    > sfml blueprint
+    > master sfml（2025-11-18)
+ > 下一个分享模拟器:8086模拟器（2025-11-18)
+ > 添加一些复古计算机链接(2025-11-17)
 ```
 - [resource](#1-resouce)
 - [books](#2-books)
@@ -72,7 +78,6 @@ layout: default
   关于退款:如果对本书不满意，或者没兴趣，可以在付款后一个月内私我进行退款操作，我将按在原来付款帐号返还。
 ```
 * **书籍**:
-***
   * **编写中**
     - [怎样编写chip8编译器]
     - [一步步学习汇编--6502]
