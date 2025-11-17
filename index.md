@@ -4,34 +4,32 @@ layout: default
 
 
 # 模拟器和游戏项目
-- [resource](#1-resouce)
-- [books](#2-books)
-- [emulator doc](#3-emulator-doc)
-- [开源项目](#4-开源项目)
-- [call me](#5-call-me)
-- [待办建议](#6-待办建议)
+| | | | | | |
+|----|----|----|----|----|----|
+| [resource](#1-resouce)| [books](#2-books)| [emulator doc](#3-emulator-doc)|[开源项目](#4-开源项目) |[call me](#5-call-me)|[待办建议](#6-待办建议)|
+
+最新公告
+```
+ >>>>>>> 添加一些复古计算机链接(2025-11-17)
+```
+
 <!-- fence:start -->
 ## 1. **resource**  
 ### 1.1 general
- * [知乎](https://www.zhihu.com/people/jim-79-39-91) 
- * [B站](https://space.bilibili.com/3493279404395296)
- * [emulator study path](/study_path.md)
- * [demo](/docs/demo/index.html)
- * [Emu-Docs](https://github.com/shonumi/Emu-Docs)
- * [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
- * [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
- * [HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
- * [CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
- * [some cpu and emulator](https://www.zophar.net/)
- * [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)
- * [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
- * [Awesome Xbox Development](https://xbox1.dev/)
- * 复古计算机
-   * [复古计算机](https://www.retromuseum.org/) [古董电脑室](https://pengan1987.github.io/) [中文电脑历史研究馆](https://rpc.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
-   * [x86复古在线模拟器](https://copy.sh/v86/) [v86另外一个在线模拟器](https://xb6.cn/tools/v86/) [mit相关历史平台研究资料](https://mitpress.mit.edu/series/platform-studies/)
-   * [老电脑博物馆](https://www.oldcomputermuseum.com/default.htm)[旧电脑1](https://oldcomputer.info/index.htm)[旧电脑2](https://oldcomputers.net/indexwp.html) [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
- * 游戏:
-   * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)  [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks) [游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-) [游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks) [游戏引擎](https://brodydoesart.github.io/GameEngineBook/)
+|||||||||
+|-|-|-|-|-|-|-|-|
+|[知乎](https://www.zhihu.com/people/jim-79-39-91)|[B站](https://space.bilibili.com/3493279404395296)|[emulator study path](/study_path.md)|[demo](/docs/demo/index.html)|[Emu-Docs](https://github.com/shonumi/Emu-Docs)
+|[awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)|[EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)|[HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)|[CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)|[some cpu and emulator](https://www.zophar.net/)|
+|[Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)|[Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)|[Awesome Xbox Development](https://xbox1.dev/)||||
+* 复古计算机
+  * [复古计算机](https://www.retromuseum.org/) [古董电脑室](https://pengan1987.github.io/) [中文电脑历史研究馆](https://rpc.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
+  * [x86复古在线模拟器](https://copy.sh/v86/) [v86另外一个在线模拟器](https://xb6.cn/tools/v86/) [mit相关历史平台研究资料](https://mitpress.mit.edu/series/platform-studies/)
+  * [老电脑博物馆](https://www.oldcomputermuseum.com/default.htm)[旧电脑1](https://oldcomputer.info/index.htm)[旧电脑2](https://oldcomputers.net/indexwp.html) [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
+* 游戏:
+  |||||||
+  |-|-|-|-|-|-| 
+  |[游戏开发学习路线图](https://miloyip.github.io/game-programmer/)|[游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks)|[游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-)|[游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks)|[游戏引擎](https://brodydoesart.github.io/GameEngineBook/)||
+   
 ### 1.2 cpu
 ### 1.2.1 6502 
  * [online 6502 disassembler](https://jborza.com/post/2021-06-08-6502-disassembler/)
@@ -51,28 +49,25 @@ layout: default
   付款方式:本页面最下面有二维码，扫码完成，备注写:购买<<chip8模拟器开发入门>>电子版.如果是粉丝，麻烦提供b站等昵称。
   关于退款:如果对本书不满意，或者没兴趣，可以在付款后一个月内私我进行退款操作，我将按在原来付款帐号返还。
 ```
-- [怎样编写chip8编译器]编写中...
-- [一步步学习汇编--6502]编写中...
-- [一步步学习汇编--arm]计划中...
-- [一步步学习汇编--mips]计划中...
-- [一步步学习汇编--8086]计划中...
-- [一步步学习汇编--80386]计划中...
-- [一步步学习汇编--z80]计划中...
-- [一步步学习汇编--pdp11]计划中...
-- [gb模拟器开发入门]计划中...
-- [gb模拟器开发中级-全指令集覆盖]计划中...
-- [2d游戏开发入门]计划中...
+计划(编写)书籍:
+|编写中|计划|
+|-|-|
+|[怎样编写chip8编译器]|[一步步学习汇编--arm]||||
+|[一步步学习汇编--6502]|[一步步学习汇编--mips]|
+||[一步步学习汇编--8086]|
+||[一步步学习汇编--80386]|
+||[一步步学习汇编--z80]|
+||[一步步学习汇编--pdp11]|
+||[gb模拟器开发入门]|
+||[gb模拟器开发中级-全指令集覆盖]|
+||[2d游戏开发入门]|
+
 <!-- fence -->
 ## 3. **emulator doc**  
- * [-][chip8](docs/chip8/index.html) 
- * [x][game boy](docs/gb/index.html) 
- * [x][nes](docs/nes/index.html) 
- * [x][snes](docs/snes/index.html) 
- * [x][gba](docs/gba/index.html)
- * [x][nds](docs/nds/index.html) 
- * [x][n64](docs/n64/index.html) 
- * [x][ps1](docs/ps1/index.html) 
- * [x][xbox](docs/xbox/index.html)|
+||||||||
+|-|-|-|-|-|-|-|
+|[-][chip8](docs/chip8/index.html) |[x][game boy](docs/gb/index.html) |[x][nes](docs/nes/index.html) |[x][snes](docs/snes/index.html)|[x][gba](docs/gba/index.html)|[x][nds](docs/nds/index.html) |[x][n64](docs/n64/index.html) |[x][ps1](docs/ps1/index.html)|[x][xbox](docs/xbox/index.html)|
+
 <!-- fence -->
 ## 4. **开源项目**
 - [no]()
