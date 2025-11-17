@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# 模拟器项目
+# 模拟器和游戏项目
 - [resource](#1-resouce)
 - [books](#2-books)
 - [emulator doc](#3-emulator-doc)
