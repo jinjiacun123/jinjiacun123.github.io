@@ -26,12 +26,12 @@ layout: default
  * [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/)
  * [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
  * [Awesome Xbox Development](https://xbox1.dev/)
- * [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
- * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)
- * [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks)
- * [游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-)
- * [游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks)
- * [游戏引擎](https://brodydoesart.github.io/GameEngineBook/)
+ * 复古计算机
+   * [复古计算机](https://www.retromuseum.org/) [古董电脑室](https://pengan1987.github.io/) [中文电脑历史研究馆](https://rpc.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
+   * [x86复古在线模拟器](https://copy.sh/v86/) [v86另外一个在线模拟器](https://xb6.cn/tools/v86/) [mit相关历史平台研究资料](https://mitpress.mit.edu/series/platform-studies/)
+   * [老电脑博物馆](https://www.oldcomputermuseum.com/default.htm)[旧电脑1](https://oldcomputer.info/index.htm)[旧电脑2](https://oldcomputers.net/indexwp.html) [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
+ * 游戏:
+   * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)  [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks) [游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-) [游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks) [游戏引擎](https://brodydoesart.github.io/GameEngineBook/)
 ### 1.2 cpu
 ### 1.2.1 6502 
  * [online 6502 disassembler](https://jborza.com/post/2021-06-08-6502-disassembler/)
@@ -113,6 +113,7 @@ layout: default
 ## 7. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
 
