@@ -5,7 +5,12 @@ layout: default
 
 # 模拟器和游戏项目
 
-[resource](#1-resouce) | [books](#2-books) | [emulator doc](#3-emulator-doc) | [开源项目](#4-开源项目) | [call me](#5-call-me) | [待办建议](#6-待办建议) |
+- [resource](#1-resouce)
+- [books](#2-books)
+- [emulator doc](#3-emulator-doc)
+- [开源项目](#4-开源项目)
+- [call me](#5-call-me)
+- [待办建议](#6-待办建议)
 
 最新公告
 ```
@@ -15,20 +20,28 @@ layout: default
 <!-- fence:start -->
 ## 1. **resource**  
 ### 1.1 general
-|[知乎](https://www.zhihu.com/people/jim-79-39-91) | [B站](https://space.bilibili.com/3493279404395296) | [emulator study path](/study_path.md) | [demo](/docs/demo/index.html)| 
-[Emu-Docs](https://github.com/shonumi/Emu-Docs)
- | [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources) | [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/) |
-
-| [HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html) | [CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/) | [some cpu and emulator](https://www.zophar.net/)|
-
-|[Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/) | [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf) | [Awesome Xbox Development](https://xbox1.dev/)|
+- [知乎](https://www.zhihu.com/people/jim-79-39-91)
+- [B站](https://space.bilibili.com/3493279404395296) 
+- [emulator study path](/study_path.md) 
+- [demo](/docs/demo/index.html)
+- [Emu-Docs](https://github.com/shonumi/Emu-Docs) - [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
+- [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
+- [HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html) 
+- [CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
+- [some cpu and emulator](https://www.zophar.net/)
+- [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/) 
+- [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
+- [Awesome Xbox Development](https://xbox1.dev/)
 * 复古计算机
   * [复古计算机](https://www.retromuseum.org/) [古董电脑室](https://pengan1987.github.io/) [中文电脑历史研究馆](https://rpc.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
   * [x86复古在线模拟器](https://copy.sh/v86/) [v86另外一个在线模拟器](https://xb6.cn/tools/v86/) [mit相关历史平台研究资料](https://mitpress.mit.edu/series/platform-studies/)
   * [老电脑博物馆](https://www.oldcomputermuseum.com/default.htm)[旧电脑1](https://oldcomputer.info/index.htm)[旧电脑2](https://oldcomputers.net/indexwp.html) [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
 * 游戏:
 
-  | [游戏开发学习路线图](https://miloyip.github.io/game-programmer/) | [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks) | [游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-) | [游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks) | [游戏引擎](https://brodydoesart.github.io/GameEngineBook/)|
+  * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)
+  * [游戏开发路线图一些书籍](https://github.com/kurong00/GameProgramBooks)         * [游戏开发书籍](https://github.com/BuggerBag/Game-Driven-Development-)
+  * [游戏开发书籍](https://github.com/AlphaStarX/GameProgrammingBooks)
+  * [游戏引擎](https://brodydoesart.github.io/GameEngineBook/)
    
 ### 1.2 cpu
 ### 1.2.1 6502 
