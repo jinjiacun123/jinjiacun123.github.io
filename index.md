@@ -120,11 +120,13 @@ layout: default
    ```
 <!-- fence -->
 ## 6. **call me**
+
 - 模拟器爱好者交流群:193548232(qq)
 ```
   · 进入本群需要每个成员至少完成一个可以独立运行的游戏rom
 ```
-- 模拟器和游戏开发会员群:205401359(qq)
+- 模拟器和游戏开发会员群:205401359(qq)和微信
+  ![Initial file structure](webchat_group.jpg)
 ```
   · 会员群只接受人员
   · 购买书籍
@@ -149,6 +151,7 @@ layout: default
 ## 7. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
 
