@@ -16,6 +16,8 @@ layout: default
     > 80386模拟器
     > bochs模拟器和linux 0.11
     > qemu模拟器
+ > 实现完整模拟器计划:
+    > gb和gba模拟器
  > 添加一些复古计算机链接(2025-11-17)
 ```
 - [resource](#1-resouce)
