@@ -6,12 +6,16 @@ layout: default
 # 模拟器和游戏项目
 **最新公告**
 ```
- > 游戏分享计划sfml系列:
-    > sfml game development by example
+ > 游戏开发分享计划sfml系列:
+    > sfml game development by example(2025-11-18)
     > sfml essentials
     > sfml blueprint
-    > master sfml（2025-11-18)
- > 下一个分享模拟器:8086模拟器（2025-11-18)
+    > master sfml
+ > pc模拟器开发分享:
+    > 8086模拟器（2025-11-18)
+    > 80386模拟器
+    > bochs模拟器和linux 0.11
+    > qemu模拟器
  > 添加一些复古计算机链接(2025-11-17)
 ```
 - [resource](#1-resouce)
