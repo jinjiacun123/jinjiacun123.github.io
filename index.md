@@ -70,6 +70,7 @@ layout: default
 ### 1.2.2 x86
  * [documentation for emu8086](https://yassinebridi.github.io/asm-docs/help.html)
  * [mit 6.828课程一些参考资料](https://pdos.csail.mit.edu/6.828/2018/reference.html)
+ * [bochs 一些参考资料](https://bochs.sourceforge.io/techdata.html)
 <!-- fence -->
 ## 2. **books**
 - [游戏模拟器开发教程(初级版)](docs/game_emulator_develop(primary).html)
