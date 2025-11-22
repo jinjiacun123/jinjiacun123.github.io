@@ -71,6 +71,8 @@ layout: default
  * [documentation for emu8086](https://yassinebridi.github.io/asm-docs/help.html)
  * [mit 6.828课程一些参考资料](https://pdos.csail.mit.edu/6.828/2018/reference.html)
  * [bochs 一些参考资料](https://bochs.sourceforge.io/techdata.html)
+ * [unix操作系统注解作者主页](http://www.lemis.com/grog/Documentation/Lions/)
+ * [早期一些unix相关版本和源码](https://minnie.tuhs.org/cgi-bin/utree.pl)
 <!-- fence -->
 ## 2. **books**
 - [游戏模拟器开发教程(初级版)](docs/game_emulator_develop(primary).html)
