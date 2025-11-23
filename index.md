@@ -6,6 +6,7 @@ layout: default
 # 模拟器和游戏项目
 **最新公告**
 ```
+ > 新增教学用的模拟器(cpu:x86,mips,arm等,操作系统,网络)(2025-11-22)
  > 游戏开发分享计划sfml系列:
     > sfml game development by example(2025-11-18)
     > sfml essentials
@@ -164,6 +165,7 @@ layout: default
 ## 7. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
 
