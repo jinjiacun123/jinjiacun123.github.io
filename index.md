@@ -14,6 +14,7 @@ layout: default
     > master sfml
  > pc模拟器开发分享:
     > 8086模拟器（2025-11-18)
+    > ibm-pc 5150
     > 80386模拟器
     > bochs模拟器和linux 0.11
     > qemu模拟器
