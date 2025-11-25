@@ -58,6 +58,7 @@ layout: default
   * [旧电脑1](https://oldcomputer.info/index.htm)
   * [旧电脑2](https://oldcomputers.net/indexwp.html)
   * [一些比较老的计算机相关书籍](http://www.rsp-italy.it/IT/Books/)
+  * [ibm pc模拟器web版本](https://www.pcjs.org/)
 * 游戏:
 
   * [游戏开发学习路线图](https://miloyip.github.io/game-programmer/)
@@ -166,6 +167,7 @@ layout: default
 ## 7. **待办建议**
 - [建议](docs/advance.html)
 <!-- fence:end -->
+
 
 
 
