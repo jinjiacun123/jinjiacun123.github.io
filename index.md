@@ -162,7 +162,7 @@ layout: default
 - webchat:jinjiacun123
 - 如果这些技术对你有所帮助，对制作者进行捐助以此鼓励。
 
-![Initial file structure](pay.jpg)
+<img src="pay.jpg" width=300 height=200 />
 
 
 ## 7. **待办建议**
@@ -176,6 +176,7 @@ layout: default
 - 游戏
   - 游戏引擎开发
 <!-- fence:end -->
+
 
 
 
