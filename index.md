@@ -28,6 +28,7 @@ layout: default
 - [开源项目](#4-开源项目)
 - [call me](#5-call-me)
 - [待办建议](#6-待办建议)
+- [计划](#7-计划)
 
 
 
@@ -166,7 +167,16 @@ layout: default
 
 ## 7. **待办建议**
 - [建议](docs/advance.html)
+
+## 8. **计划**
+- 模拟器
+  - fbneo
+  - name
+  - arcade
+- 游戏
+  - 游戏引擎开发
 <!-- fence:end -->
+
 
 
 
