@@ -164,7 +164,7 @@ layout: default
 - 如果这些技术对你有所帮助，对制作者进行捐助以此鼓励。
 
 <img src="pay.jpg" width=300 height=200 />
-- 现金支持者清单
+- 赞助者清单
   - ddoocc(2025-12-5)
   - T_T(2025-12-2)
 
@@ -179,6 +179,7 @@ layout: default
 - 游戏
   - 游戏引擎开发
 <!-- fence:end -->
+
 
 
 
