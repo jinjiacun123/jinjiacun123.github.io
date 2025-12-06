@@ -6,6 +6,7 @@ layout: default
 # 模拟器和游戏项目
 **最新公告**
 ```
+ > 感谢ddoocc和T_T的金钱方面支持，也感谢其他粉丝和对我制作内容支持者的鼓励和支持
  > 新增教学用的模拟器(cpu:x86,mips,arm等,操作系统,网络)(2025-11-22)
  > 游戏开发分享计划sfml系列:
     > sfml game development by example(2025-11-18)
@@ -163,7 +164,9 @@ layout: default
 - 如果这些技术对你有所帮助，对制作者进行捐助以此鼓励。
 
 <img src="pay.jpg" width=300 height=200 />
-
+- 现金支持者清单
+  - ddoocc
+  - T_T
 
 ## 7. **待办建议**
 - [建议](docs/advance.html)
