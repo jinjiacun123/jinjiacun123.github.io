@@ -176,7 +176,7 @@ layout: default
 ## 8. **计划**
 - 模拟器
   - fbneo
-  - name
+  - mame
   - arcade
 - 游戏
   - 游戏引擎开发
