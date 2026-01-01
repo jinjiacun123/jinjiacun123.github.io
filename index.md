@@ -82,6 +82,8 @@ layout: default
 ### 1.2.3 教学用模拟器
  * [cpu-os:仿真cpu和os，网络](https://teach-sim.com/)
  * [cpulator:一个在线学习arm,mips等汇编的在线模拟器学习工具](https://cpulator.01xz.net/)
+ * [国内学校chip8模拟器开发教程](http://kuanli.site:8001/chip8/)
+ * [上面课程的一个引用](https://missing-semester-cn.github.io/)
 <!-- fence -->
 ## 2. **books**
 - [游戏模拟器开发教程(初级版)](docs/game_emulator_develop(primary).html)
