@@ -44,6 +44,7 @@ layout: default
 - [Emu-Docs](https://github.com/shonumi/Emu-Docs) 
 - [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources)
 - [EE2 Computing Course main page](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_computing/)
+- [代尔夫特理工软件基础课程](https://cese.ewi.tudelft.nl/software-fundamentals/index.html)
 - [HOWTO: Writing a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html) 
 - [CSEE 4840 Embedded System Design](https://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/)
 - [some cpu and emulator](https://www.zophar.net/)
