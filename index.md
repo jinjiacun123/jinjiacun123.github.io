@@ -74,6 +74,7 @@ layout: default
 ### 1.2 cpu
 ### 1.2.1 6502 
  * [online 6502 disassembler](https://jborza.com/post/2021-06-08-6502-disassembler/)
+ * [nes game directory](https://nesdir.github.io)
 ### 1.2.2 x86
  * [documentation for emu8086](https://yassinebridi.github.io/asm-docs/help.html)
  * [mit 6.828课程一些参考资料](https://pdos.csail.mit.edu/6.828/2018/reference.html)
