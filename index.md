@@ -51,6 +51,7 @@ layout: default
 - [Instruction-Set Simulators for Real and Virtual Machines](http://www.xsim.com/) 
 - [Study of the techniques for emulation programming](http://www.xsim.com/papers/Bario.2001.emubook.pdf)
 - [Awesome Xbox Development](https://xbox1.dev/)
+- [ebpf](https://github.com/qmonnet/awesome-ebp
 * 复古计算机
   * [复古计算机](https://www.retromuseum.org/)
   * [古董电脑室](https://pengan1987.github.io/)
