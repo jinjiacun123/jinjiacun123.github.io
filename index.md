@@ -18,8 +18,17 @@ layout: default
     > 8086模拟器（2025-11-18)
     > ibm-pc 5150
     > 80386模拟器
+    > pdp模拟器
     > bochs模拟器和linux 0.11
     > qemu模拟器
+ > os开发入门:
+    > mtx操作系统学习与分享
+    > minix1源码分析与分享
+    > bsd4.4源码分析与分享
+    > freebsd releng/1 源码分析与分享
+ > 编译器
+    > 构建自己的编译器
+    > c65编译器源码分析
  > 实现完整模拟器计划:
     > gb和gba模拟器
  > 添加一些复古计算机链接(2025-11-17)
@@ -37,6 +46,7 @@ layout: default
 <!-- fence:start -->
 ## 1. **resource**  
 ### 1.1 general
+- [图书](/docs/book/index.html)
 - [知乎](https://www.zhihu.com/people/jim-79-39-91)
 - [B站](https://space.bilibili.com/3493279404395296) 
 - [emulator study path](/study_path.md) 
