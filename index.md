@@ -113,6 +113,7 @@ layout: default
 ```
 * **书籍**:
   * **编写中**
+    - [os入门开发教程](docs/os/outline_begginer.md)
     - [怎样编写chip8编译器]
     - [一步步学习汇编--6502]
 
